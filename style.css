@@ -1,0 +1,28 @@
+center{
+    background-image: url(bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tube{
+    height: 35px;
+    width: 35px;
+}
+
+.menu{
+    background-color: black;
+}
+
+i{
+    color: gray;
+}
+
+#head{
+    font-family: qwitcher grypen;
+    font-size: 50px;
+    color: black;
+}
+
+#v{
+    margin: 15px;
+}
